@@ -25,6 +25,5 @@ I’m a fresh graduate interested in AI engineering and machine learning who enj
 ---
 [![](https://visitcount.itsvg.in/api?id=MagdyFarag22245&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
 ### ✨ Thanks for visiting my profile!
