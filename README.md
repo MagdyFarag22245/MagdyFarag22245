@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a fresh graduate interested in AI engineering and machine learning who enjoys building real machine learning and deep learning projects. I work with Python, TensorFlow, and PyTorch, and I’m always experimenting with new ideas in computer vision, NLP, and AI automation.<br><br>I like turning data into useful models, learning fast, and solving problems with clean and simple code.<br>Right now, I’m focusing on improving my AI engineering skills, contributing to practical projects, and building a strong portfolio.<br><br><br>🛠️ Tech I use<br><br>Python<br><br>TensorFlow, PyTorch<br><br>Machine Learning & Deep Learning<br><br>Computer Vision<br><br>Data Analysis<br><br>Jupyter / Kaggle / VS Code
+I’m a fresh graduate interested in AI engineering and machine learning who enjoys building real machine learning and deep learning projects. I work with Python, TensorFlow, and PyTorch, and I’m always experimenting with new ideas in computer vision, NLP, and AI automation.<br><br>I like turning data into useful models, learning fast, and solving problems with clean and simple code.<br>Right now, I’m focusing on improving my AI engineering skills, contributing to practical projects, and building a strong portfolio.<br><br><br>🛠️ 
 
 
 ## 🌐 Socials:
